@@ -1,4 +1,4 @@
-# File created by: Domenico DiStefano
+# File created by: Dawn DiStefano
 '''
 Game Structure:
 Goals, Rules, Feedback, Freedom
